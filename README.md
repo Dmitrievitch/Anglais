@@ -5,5 +5,5 @@ Mon principal outil de travail est Anki, une application de révision espacée.
 
 Vous trouverez sur cette [page](anglais.md) les paquets de vocabulaire que j'ajoute.
 
->[!WARNING]
+>[!ATTENTION]
 >attention patate
