@@ -14,6 +14,6 @@ Vous pouvez télécharger ci-dessous les derniers paquets :
 
 | Matière | Fichier | Date |
 |---------|---------|------|
-| Anglais | [](Anglais.apkg) | 20/01/2024 |
+| Anglais | [Paquet](Anglais.apkg) | 20/01/2024 |
 
 Je suis joignable à l'adresse mél suivante : <adresse@domaine.com>.
