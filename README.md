@@ -15,10 +15,12 @@ succintement les notations et les commandes que j'utilise : si nous parlons le m
 
 Vous trouverez ci-dessous les derniers paquets :
 
-| Matière | Fichier | Date |
-|---------|---------|------|
-| Anglais | [Anglais.apkg](Anglais.apkg) | 20/01/2024 |
+|  Matière  |            Fichier           |    Date    |
+|-----------|------------------------------|------------|
+|  Anglais  | [Anglais.apkg](Anglais.apkg) | 20/01/2024 |
+|  Allemand |
+|  Français |
 
 ## Divers
 
-Je suis joignable à l'adresse mél suivante : <adresse@domaine.com>.
+Je suis joignable à l'adresse mél suivante : <dmitrievitch.o8iym@aleeas.com>.
