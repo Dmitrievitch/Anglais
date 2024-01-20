@@ -17,4 +17,6 @@ Vous trouverez ci-dessous les derniers paquets :
 |---------|---------|------|
 | Anglais | [Anglais.apkg](Anglais.apkg) | 20/01/2024 |
 
+## Divers
+
 Je suis joignable à l'adresse mél suivante : <adresse@domaine.com>.
