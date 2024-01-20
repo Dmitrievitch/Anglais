@@ -7,7 +7,7 @@ Bienvenue sur mon site étudiant où je poste du contenu pédagogique que je cr�
 Mon principal outil de travail est Anki, une application de révision espacée.
 
 Lisez **impérativement** cette [page](documentation.md) afin de bien comprendre les tenants et les aboutissants de Anki. J'y présente
-succintement les notations et commandes que j'utilise : si nous parlons le même langage, nous nous comprendrons mieux !
+succintement les notations et les commandes que j'utilise : si nous parlons le même langage, nous nous comprendrons mieux !
 
 ## Téléchargements
 
@@ -15,6 +15,6 @@ Vous trouverez ci-dessous les derniers paquets :
 
 | Matière | Fichier | Date |
 |---------|---------|------|
-| Anglais | [Paquet](Anglais.apkg) | 20/01/2024 |
+| Anglais | [Anglais.apkg](Anglais.apkg) | 20/01/2024 |
 
 Je suis joignable à l'adresse mél suivante : <adresse@domaine.com>.
