@@ -10,7 +10,9 @@ Lisez **impérativement** cette [page](documentation.md) afin de bien comprendre
 objectif de faire un résumé succint des fonctionnalités et commandes que j'utilise. Si nous parlons le même langage,
 nous nous comprendrons mieux !
 
-Vous pouvez télécharger ci-dessous les derniers paquets :
+# Téléchargements
+
+Vous trouverez ci-dessous les derniers paquets :
 
 | Matière | Fichier | Date |
 |---------|---------|------|
