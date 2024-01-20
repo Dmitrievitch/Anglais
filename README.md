@@ -6,16 +6,14 @@
 Bienvenue sur mon site étudiant où je poste divers contenus pédagogiques que je crée.
 Mon principal outil de travail est Anki, une application de révision espacée.
 
-Lisez **impérativement** cette [page](documentation.md) afin de bien comprendre les tenants et les aboutissants du logiciel Anki. Cette lecture n'a pas
-pour vocation de faire un exposé détaillé de cet outil, mais au contraire, de faire un résumé succint des fonctionnalités et commandes que j'utilise. Si nous parlons le même langage,
+Lisez **impérativement** cette [page](documentation.md) afin de bien comprendre les tenants et les aboutissants du logiciel Anki. Cette lecture a pour
+objectif de faire un résumé succint des fonctionnalités et commandes que j'utilise. Si nous parlons le même langage,
 nous nous comprendrons mieux !
 
-regarde ça [deck](Anglais.apkg)
-
-Vous pouvez télécharger ici les derniers paquets.
+Vous pouvez télécharger ci-dessous les derniers paquets :
 
 | Matière | Fichier | Date |
-|---|---|---|
-| Anglais | [deck](Anglais.apkg) | 20/01/2024 |
+|---------|---------|------|
+| Anglais | (Anglais.apkg) | 20/01/2024 |
 
-Je suis joignable (si vous remarquez une erreur notamment) à l'adresse mél suivante : <adresse@domaine.com>.
+Je suis joignable à l'adresse mél suivante : <adresse@domaine.com>.
