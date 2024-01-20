@@ -12,6 +12,12 @@ Vous trouverez sur cette [page](anglais.md) les paquets de vocabulaire Anglais.
 
 regarde ça [deck](Anglais.apkg)
 
+
+| Matière | Fichier |
+|---|---|
+| Anglais | [deck](Anglais.apkg) |
+|   |   |
+
 Je reste à votre écoute et suis joignable à l'adresse mél suivante : adresse@domaine.com
 Il se peut que certaines coquilles soient passées à travers les mailles du filet, c'est pourquoi n'hésitez pas à faire remonter toute erreur que vous pourriez rencontrer (dans les paquets notamment).
 
