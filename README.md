@@ -3,6 +3,8 @@
 >"Ne crains pas l'échec. Ce n'est pas l'échec, mais le manque d'ambition qui est un crime. Avec des objectifs élevés, l'échec peut être glorieux."
 >Bruce Lee
 
+## Présentation
+
 Bienvenue sur mon site étudiant où je poste du contenu pédagogique que je crée.
 Mon principal outil de travail est Anki, une application de révision espacée.
 
