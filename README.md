@@ -7,6 +7,6 @@ Mon principal outil est Anki, une application de révision espacée qui
 Ce machin hébèrge du vocabulaire.
 et je test
 
-!(patate.jpg)
+![test](patate.jpg)
 
 TTTTTTTTTTTTEST
