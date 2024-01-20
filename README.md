@@ -3,12 +3,11 @@
 >"Ne crains pas l'échec. Ce n'est pas l'échec, mais le manque d'ambition qui est un crime. Avec des objectifs élevés, l'échec peut être glorieux."
 >Bruce Lee
 
-Bienvenue sur mon site étudiant où je poste divers contenus pédagogiques que je crée.
+Bienvenue sur mon site étudiant où je poste du contenu pédagogique que je crée.
 Mon principal outil de travail est Anki, une application de révision espacée.
 
-Lisez **impérativement** cette [page](documentation.md) afin de bien comprendre les tenants et les aboutissants du logiciel Anki. Cette lecture a pour
-objectif de faire un résumé succint des fonctionnalités et commandes que j'utilise. Si nous parlons le même langage,
-nous nous comprendrons mieux !
+Lisez **impérativement** cette [page](documentation.md) afin de bien comprendre les tenants et les aboutissants de Anki. J'y présente
+succintement les notations et commandes que j'utilise : si nous parlons le même langage, nous nous comprendrons mieux !
 
 ## Téléchargements
 
