@@ -5,11 +5,11 @@
 
 ## Présentation
 
-Bienvenue sur mon site étudiant où je poste du contenu pédagogique que je crée.
-Mon principal outil de travail est Anki, une application de révision espacée.
+Bienvenue sur mon site étudiant où je poste le contenu pédagogique que je crée.
+Mon principal outil de travail est Anki, une application de révisions espacées.
 
-Lisez **impérativement** cette [page](documentation.md) afin de bien comprendre les tenants et les aboutissants de Anki. J'y présente
-succintement les notations et les commandes que j'utilise : si nous parlons le même langage, nous nous comprendrons mieux !
+Lisez **impérativement** cette [page](/pages/documentation.md) afin de bien comprendre les tenants et les aboutissants de Anki. J'y présente
+le fonctionnement et les notations utilisées : si nous parlons le même langage, nous nous comprendrons mieux !
 
 ## Téléchargements
 
@@ -21,6 +21,10 @@ Vous trouverez ci-dessous les derniers paquets :
 | Allemand |
 | Français |
 | Maths    |
+
+## Mises à jour
+
+```Ajout du chapitre SAME-SEX MARRIAGE --- 20/01/2024```
 
 ## Divers
 
