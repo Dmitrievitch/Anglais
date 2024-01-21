@@ -21,7 +21,7 @@ Le paquet contient des cartes. Le principe est de faire défiler des cartes, d'e
 Anki classera les cartes et vous les fera revoir à intervalles différents. Il y a un code couleur, prenez note de la correspondance anglaise : bleu (nouvelles cartes, **new**), rouge (en cours, **due**)
 et vert (à réviser, **review**).
 
-Le premier jour vous aurez 30 cartes bleues (30 nouvelles cartes à apprendre. Durant la journée vous apprendez ces cartes mais vous ferez des erreurs, vous transformerez donc les cartes bleues en cartes rouges (en cours d'apprentissage). Et à la fin, vous transformez ces cartes rouges en cartes sans couleur (tout le vocabulaire de la journée aura été appris). Dès le lendemain, les cartes sans couleur
+Le premier jour vous aurez 30 cartes bleues (30 nouvelles cartes à apprendre). Durant la journée vous apprendez ces cartes mais vous ferez des erreurs, vous transformerez donc les cartes bleues en cartes rouges (en cours d'apprentissage). Et à la fin, vous transformez ces cartes rouges en cartes sans couleur (tout le vocabulaire de la journée aura été appris). Dès le lendemain, les cartes sans couleur
 seront des cartes vertes (à réviser) et de nouvelles cartes bleues apparaîtrons, recommençant ainsi le cycle.
 
 ## Paquet filtré
@@ -41,10 +41,10 @@ sous chapitres.
 
 La création d'un paquet filtré va extraire des cartes du paquet d'origine.
 Une fois que vous avez fini de réviser votre paquet filtré, vous pourrez continuer sa révision les jours suivants en faisant **reconstruire**. La suprression d'un paquet filtré ne supprime pas les cartes
-correspondantes. Cela fait juste revenir les cartes au paquet d'origine.
+correspondantes : cela fait juste revenir les cartes au paquet d'origine.
 
 ## Recommandations
 
 Anki repose sur la **régularité**. Son objectif est de vous faire apprendre 30 cartes par jour (quota réglable) et de vous faire réviser toutes les cartes qu'il juge nécessaire ce même jour.
-Travaillez et finissez chaque jour les cartes qu'il vous propose. En parallèle, utilisez un paquet filtré pour vous préparer à une échéance. Une fois ce paquet filtré supprimé, les "progrè" réalisés
-sont automatiquement téléversé dans votre séance de révision principale du paquet principal.
+Travaillez et finissez chaque jour les cartes qu'il vous propose. En parallèle, utilisez un paquet filtré pour vous préparer à une échéance. Une fois ce paquet filtré supprimé, les "progrès" réalisés
+dans ce paquet sont automatiquement téléversé dans votre séance de révision du paquet principal. Prendre du retard détériorera le bon fonctionnement de l'algorithme avec votre mémoire.
