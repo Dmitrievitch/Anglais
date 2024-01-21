@@ -12,9 +12,17 @@ Anki fonctionne par **cartes** qui se trouvent dans des **paquets**.
 À chaque couple de mots, mettons apple et pomme, deux cartes correspondantes sont crées : une carte **recto = apple avec verso = pomme** ainsi qu'une autre carte **recto = pomme avec verso = apple**.
 Cela, afin d'éviter à l'élève de ne retenir son vocabulaire que dans un seul sens.
 
+## Tags
+
 À chaque carte (par carte on sous-entend un duo de carte (puisque les cartes sont équivalentes en contenu)) est associé une balise (tag en anglais).
-Explicitons leur utilité. En effet, anki gère très mal les grandes quantités de paquets. Par exemple, si je veux apprendre le livre de **la vie** qui contient les chapitres orgueil, avarice, luxure, envie, gourmandise, colère et paresse, rentrer directement chacun de ces chapitre sous forme de paquet indépendant dans anki serait contre productif (il faut imaginer une situation où il y aurait des dixaines de chapitres pourquoi chaque matière et donc des centaines de paquets).
+Explicitons leur utilité. En effet, anki gère très mal les grandes quantités de paquets. Par exemple, si je veux apprendre le livre de **la vie** qui contient les chapitres orgueil, avarice, luxure, envie, gourmandise, colère et paresse, rentrer directement chacun de ces chapitre sous forme de paquet indépendant dans anki serait contre productif (il faut imaginer une situation où il y aurait des dixaines de chapitres pour chaque matière et donc des centaines de paquets).
 C'est pourquoi je rentre tous ces chapitres dans un seul gros paquet nommé **la vie** et à chaque carte j'associe une balise (balise orgueil, balise avarice, etc.). De fait on passe d'une structure en dossier (très lourde) à un structure en balise (très légère).
+
+Tous les mots du livres sont tapés dans le paquet Anglais::Vocabulaire.
+Si je veux réviser le chapitre Health_issues de la partie lifestyles, le tag correspondant est Anglais::Lifestyles::Health_issues::Vocabulaire. Attention à la syntaxe de la commande.
+Cette dernière décrit l'arborescence ci-dessous.
+
+[tags](images/tags.png)
 
 ## Notations
 
