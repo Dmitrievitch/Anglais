@@ -8,7 +8,7 @@
 Bienvenue sur mon site étudiant où je poste le contenu pédagogique que je crée.
 Mon principal outil de travail est Anki, une application de révisions espacées.
 
-Lisez **impérativement** cette [page](/pages/documentation.md) afin de bien comprendre les tenants et les aboutissants de Anki. J'y présente
+Lisez **impérativement** [cette page](/pages/documentation.md) afin de bien comprendre les tenants et les aboutissants de Anki. J'y présente
 le fonctionnement et les notations utilisées : si nous parlons le même langage, nous nous comprendrons mieux !
 
 ## Téléchargements
@@ -24,8 +24,11 @@ Vous trouverez ci-dessous les derniers paquets :
 
 ## Mises à jour
 
-```Ajout du chapitre SAME-SEX MARRIAGE --- 20/01/2024```
+Vous trouverez un index des parties et chapitre anglais [ici](index.md).
+
+`Ajout du chapitre SAME-SEX MARRIAGE ------ 20/01/2024
+ Ajout du chapitre HEALTH ISSUES ---------- 12/01/2024`
 
 ## Divers
 
-Je suis joignable à l'adresse mél suivante : <dmitrievitch.o8iym@aleeas.com>.
+Pour toute remarque, je suis joignable à l'adresse mél suivante : <dmitrievitch.o8iym@aleeas.com>.
