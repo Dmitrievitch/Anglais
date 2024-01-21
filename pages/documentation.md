@@ -4,7 +4,17 @@ Anki est un logiciel libre permettant d'apprendre et de réviser des cartes-mém
 
 Vous pouvez télécharger Anki [ici](https://apps.ankiweb.net/). Notez que la version Windows/Linux/MacOS/Android est gratuite. La version iOS est quant
 à elle payante. Néanmoins, les révisions sont toujours possibles depuis n'importe quelle plateforme via le site web [ankiweb.net](https://ankiweb.net) mais
-les fonctionnalités sont moindres (pas la possibilité de faire de *révisions personnalisée*).
+les fonctionnalités sont moindres (pas la possibilité de faire de **révisions personnalisée**). La documentation officielle se trouve [ici](https://apps.ankiweb.net/docs/manual.fr.html).
+
+## Organisation
+
+Anki fonctionne par **cartes** qui se trouvent dans des **paquets**.
+À chaque couple de mots, mettons apple et pomme, deux cartes correspondantes sont crées : une carte **recto = apple avec verso = pomme** ainsi qu'une autre carte **recto = pomme avec verso = apple**.
+Cela, afin d'éviter à l'élève de ne retenir son vocabulaire que dans un seul sens.
+
+À chaque carte (par carte on sous-entend un duo de carte (puisque les cartes sont équivalentes en contenu)) est associé une balise (tag en anglais).
+Explicitons leur utilité. En effet, anki gère très mal les grandes quantités de paquets. Par exemple, si je veux apprendre le livre de **la vie** qui contient les chapitres orgueil, avarice, luxure, envie, gourmandise, colère et paresse, rentrer directement chacun de ces chapitre sous forme de paquet indépendant dans anki serait contre productif (il faut imaginer une situation où il y aurait des dixaines de chapitres pourquoi chaque matière et donc des centaines de paquets).
+C'est pourquoi je rentre tous ces chapitres dans un seul gros paquet nommé **la vie** et à chaque carte j'associe une balise (balise orgueil, balise avarice, etc.). De fait on passe d'une structure en dossier (très lourde) à un structure en balise (très légère).
 
 ## Notations
 
@@ -13,3 +23,26 @@ La façon dont est rédigé le vocabulaire d'anglais reproduit strictement celle
 - la virgule **,** permet de distinguer différentes traductions. Exemple : **a thief, a robber** appelle la traduction **un voleur #2**. Notez ici la présence du **#2** qui indique que
 lorsque je suis en présence du mot **voleur #2**, on attend de moi deux traductions en anglais. Même principe dans le sens contraire et/ou avec un plus grand nombre de traductions.
 - Notez les abréviations courantes : **sb** pour **somebody**, **qn** pour **quelqu'un**, **sth** pour **something**, **qch** pour **quelque chose**.
+
+
+## Révisions
+
+Le vocabulaire de chaque chapitre est entièrement tapé dans les paquets. Certains trouveront cela embêtant car ils connaîtrons peut être déjà certains mots, mais dans la mesure
+où les paquets s'adressent à un large public, il était nécessaire de rentrer tous les mots afin d'éviter des disparîtés entre élèves. En outre, une piqûre de rappelle ne fait pas de mal, et s'il
+s'avère que le mot est réellement su du fond du coeur, l'algorithme d'Anki se chargera d'enterrer la carte correspondante.
+
+De façon générale, je publie un jeu de carte (qui équivaut à un chapitre) par semaine le vendredi ou samedi soir. De fait il est possible d'entamer les révisions dès lundi. Dans la mesure où chaque chapitre contient moins de 100 mots, une utilisation **quotidienne** de Anki permet en apprenant moins de 20 mots par jour, de finir son vocabulaire de façon naturelle dans la semaine. Lorsque Mme Binet annonce
+les échéances, je tape les chapitres correspondants. En dehors des échéances, je tape les autres chapitres.
+
+## Révisions personnalisée
+
+Par défaut, Anki voudra vous faire apprendre 30 mots par jours (quota changeable) qui se trouvent dans le paquets **Anglais**. Or ce paquet contient tous les chapitres tapés jusqu'à présent. Certes, il est intéressant de réviser et d'apprendre tous les jours du vocabulaire divers mais pour les échéances, c'est moins pratique.
+
+C'est pourquoi, si j'ai besoin de réviser le chapitre **Health_issues** pour la semaine prochaine, je vais dans le paquet **Vocabulaire** et je fait **Révisions personnalisée** puis **Etude par carte ou tag**.
+
+Dans un premier temps on sélectionne un nombre de carte suffisamment grand.
+Ensuite deux cas sont à distinguer pour une échéance au 6 janvier:
+- Je suis le 1er janvier, je sélectionne **Seulement les nouvelles cartes**
+- Je suis le 5 janvier, je sélectionne **Toutes les cartes dans un ordre aléatoire**
+
+Puis, il faut choisir le tag Anglais::Lifestyles::Health_issues::Vocabulaire
