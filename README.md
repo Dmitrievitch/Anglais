@@ -17,7 +17,7 @@ Vous trouverez ci-dessous les derniers paquets :
 
 | Matière  | Fichier                                    | Date       |
 | :------: | :----------------------------------------: | :--------: |
-| Anglais  | [The big picture.apkg](/anki/Anglais.apkg) | 20/01/2024 |
+| Anglais  | [The big picture.apkg](/anki/The Big Picture.apkg) | 20/01/2024 |
 | Allemand |
 | Français |
 | Maths    |
