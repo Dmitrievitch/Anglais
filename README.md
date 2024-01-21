@@ -15,9 +15,9 @@ le fonctionnement et les notations utilisées : si nous parlons le même langage
 
 Vous trouverez ci-dessous les derniers paquets :
 
-| Matière  | Fichier                      | Date       |
-| :------: | :--------------------------: | :--------: |
-| Anglais  | [Anglais.apkg](/anki/Anglais.apkg) | 20/01/2024 |
+| Matière  | Fichier                                    | Date       |
+| :------: | :----------------------------------------: | :--------: |
+| Anglais  | [The_big_picture.apkg](/anki/Anglais.apkg) | 20/01/2024 |
 | Allemand |
 | Français |
 | Maths    |
