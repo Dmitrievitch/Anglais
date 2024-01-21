@@ -73,9 +73,14 @@ de ce site vous permets de consulter la date d'ajout des chapitres ainsi que les
 
 Par défaut, Anki voudra vous faire apprendre 30 mots par jours (quota changeable) qui se trouvent dans le paquets **Anglais**. Or ce paquet contient tous les chapitres tapés jusqu'à présent. Certes, il est intéressant de réviser et d'apprendre tous les jours du vocabulaire divers mais pour les échéances, c'est moins pratique.
 
-Si je veux réviser le chapitre **Health_issues** de la partie lifestyles, le tag correspondant est Anglais::Lifestyles::Health_issues::Vocabulaire. Attention à la syntaxe de la commande.
-Cette dernière décrit l'arborescence ci-dessous.
-C'est pourquoi, si j'ai besoin de réviser le chapitre **Health_issues** pour la semaine prochaine, je vais dans le paquet **Vocabulaire** et je fait **Révisions personnalisée** puis **Etude par carte ou tag**.
+Si je veux réviser le **Vocabulaire** du chapitre **Health_issues** de la partie **Lifestyles** qui se trouve dans le paquet principal **Anglais**, le tag correspondant est `Anglais::Lifestyles::Health_issues::Vocabulaire`. Cette dernière décrit l'arborescence ci-dessous.
+
+![tags](chaptal/images/tags.png)
+
+Pour réviser les **Idiomes**, nous remplacerions simplement **Vocabulaire** par **Idiomes**. Même principe pour changer de chapitre ou de partie.
+La commande type s'écrit donc `Paquet_principal::Partie_x::Chapitre_y::Sujet`. Attention à la syntaxe de la commande : notez la présence d'une seule majuscule par groupe de mots, des deux points et des underscores. Afin de trouver le bon chapitre, la page [index](index.md) est à votre disposition.
+
+C'est pourquoi, si j'ai besoin de réviser le chapitre **Health_issues** pour la semaine prochaine, je vais dans le paquet **Anglais** et je fait **Révisions personnalisée** puis **Etude par carte ou tag**.
 
 Dans un premier temps on sélectionne un nombre de carte suffisamment grand.
 Ensuite deux cas sont à distinguer pour une échéance au 6 janvier:
@@ -83,3 +88,5 @@ Ensuite deux cas sont à distinguer pour une échéance au 6 janvier:
 - Je suis le 5 janvier, je sélectionne **Toutes les cartes dans un ordre aléatoire**
 
 Puis, il faut choisir le tag Anglais::Lifestyles::Health_issues::Vocabulaire
+
+Cette action créera un nouveau paquet personnalisé provisoire. Tous les "progrès" réalisé dans ce paquet resteront au sein même du paquet.a
