@@ -43,7 +43,7 @@ Lorsque vous décidez d'étudier un paquet, dans un premier temps vous tombez su
 
 À ce moment, vous cherchez mentalement (ou à voix haute !) le traduction puis vous vérifiez votre réponse comme ci-dessous.
 
-![verso](/images/verso.png
+![verso](/images/verso.png)
 
 
 ## Tags
