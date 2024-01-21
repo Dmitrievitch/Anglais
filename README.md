@@ -17,7 +17,7 @@ Vous trouverez ci-dessous les derniers paquets :
 
 | Matière  | Fichier                      | Date       |
 | :------: | :--------------------------: | :--------: |
-| Anglais  | [Anglais.apkg](Anglais.apkg) | 20/01/2024 |
+| Anglais  | [Anglais.apkg](/anki/Anglais.apkg) | 20/01/2024 |
 | Allemand |
 | Français |
 | Maths    |
@@ -26,8 +26,8 @@ Vous trouverez ci-dessous les derniers paquets :
 
 Vous trouverez un index des parties et chapitre anglais [ici](index.md).
 
-`Ajout du chapitre SAME-SEX MARRIAGE ------ 20/01/2024
- Ajout du chapitre HEALTH ISSUES ---------- 12/01/2024`
+``Ajout du chapitre SAME-SEX MARRIAGE ------ 20/01/2024
+ Ajout du chapitre HEALTH ISSUES ---------- 12/01/2024``
 
 ## Divers
 
