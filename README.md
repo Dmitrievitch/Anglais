@@ -26,8 +26,10 @@ Vous trouverez ci-dessous les derniers paquets :
 
 Vous trouverez un index des parties et chapitre anglais [ici](index.md).
 
-``Ajout du chapitre SAME-SEX MARRIAGE ------ 20/01/2024
- Ajout du chapitre HEALTH ISSUES ---------- 12/01/2024``
+```
+Ajout du chapitre SAME-SEX MARRIAGE ------ 20/01/2024
+Ajout du chapitre HEALTH ISSUES ---------- 12/01/2024
+```
 
 ## Divers
 
