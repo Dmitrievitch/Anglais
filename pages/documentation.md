@@ -3,7 +3,7 @@
 Anki est un logiciel libre permettant d'apprendre et de réviser des cartes-mémoires grâce à la répétition espacée.
 
 Vous pouvez télécharger Anki [ici](https://apps.ankiweb.net/). Notez que la version Windows/Linux/MacOS/Android est gratuite. La version iOS est quant
-à elle payante. Néanmoins, les révisions sont toujours possibles depuis n'importe quelle plateforme via le site web [ankiweb.net](ankiweb.net) mais
+à elle payante. Néanmoins, les révisions sont toujours possibles depuis n'importe quelle plateforme via le site web [ankiweb.net](https://ankiweb.net) mais
 les fonctionnalités sont moindres (pas la possibilité de faire de *révisions personnalisée*).
 
 ## Notations
