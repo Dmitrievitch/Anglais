@@ -31,7 +31,7 @@ C'est pourquoi, le vocabulaire, les idiomes et la culture se trouvent dans les s
 
 L'image ci-dessous illustre cette arborescence.
 
-![accueil](https://github.com/Dmitrievitch/chaptal/blob/55ba3c7f6b5848ed15ec0f54be67eb5d94b138e6/images/accueil.png)
+![accueil](accueil.png)
 
 De fait, il devient possible de faire une séance "apprentissage/révision des idiomes anglais" indépendamment d'une séance "apprentissage/révision du vocabulaire anglais".
 
