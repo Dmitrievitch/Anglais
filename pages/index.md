@@ -1,6 +1,7 @@
 # Index de The Big Picture
 
-Les chapitres marqués d'un **#** sont tapés dans le paquet **Anglais**.
+Les chapitres marqués d'un **#** sont tapés dans le paquet **The Big Picture**.
+Les notations des chapitres et sous chapitres reprennent celles pour la création d'une commande de paquet filtré.
 
 ## Lifestyles
 
