@@ -1,28 +1,59 @@
+# Manuel d'utilisateur du logiciel Anki
+
+La lecture des paragraphes qui suivent est indispensable pour une bonne compréhension de cet outil. Nous avons fait le choix d'Anki, notamment pour sa puissance et sa gratuité
+(contrairement à quizlet par exemple). Vous trouverez la documentation officielle [ici](https://apps.ankiweb.net/docs/manual.fr.html).
+Une lecture attentive de cette dernière est recommandée. En tout état de cause, nous exposons ci-dessous les fonctionnalités utilisées.
+
 ## Présentation
 
-Anki est un logiciel libre permettant d'apprendre et de réviser des cartes-mémoires grâce à la répétition espacée.
+Anki est un logiciel libre permettant d'apprendre et de réviser des cartes-mémoires grâce à la répétition espacée. Son algorithme se base sur la courbe d'Ebbinghaus.
 
 Vous pouvez télécharger Anki [ici](https://apps.ankiweb.net/). Notez que la version Windows/Linux/MacOS/Android est gratuite. La version iOS est quant
-à elle payante. Néanmoins, les révisions sont toujours possibles depuis n'importe quelle plateforme via le site web [ankiweb.net](https://ankiweb.net) mais
-les fonctionnalités sont moindres (pas la possibilité de faire de **révisions personnalisée**). La documentation officielle se trouve [ici](https://apps.ankiweb.net/docs/manual.fr.html).
+à elle payante. Néanmoins, les révisions sont toujours possibles gratuitement depuis n'importe quelle plateforme via le site web [ankiweb.net](https://ankiweb.net) mais
+les fonctionnalités sont moindres (pas la possibilité de faire de **révisions personnalisée**). L'utilisation d'un ordinateur reste recommandée.
 
 ## Organisation
 
 Anki fonctionne par **cartes** qui se trouvent dans des **paquets**.
-À chaque couple de mots, mettons apple et pomme, deux cartes correspondantes sont crées : une carte **recto = apple avec verso = pomme** ainsi qu'une autre carte **recto = pomme avec verso = apple**.
-Cela, afin d'éviter à l'élève de ne retenir son vocabulaire que dans un seul sens.
+À chaque couple de mots, mettons **apple** et **pomme**, deux cartes correspondantes sont créées : une carte **recto = apple** avec **verso = pomme** ainsi
+qu'une autre carte **recto = pomme** avec **verso = apple**. Cela, afin d'éviter que l'élève ne retienne son vocabulaire que dans un seul sens.
+
+## Paquets
+
+À chaque carte (par carte nous sous-entendons un duo de carte (puisque deux cartes adjacentes sont équivalentes en contenu)) est associé une balise (tag en anglais).
+Explicitons leur utilité. En effet, anki gère très mal les grandes quantités de paquets. Par exemple, si je veux apprendre le livre de **la vie** qui contient les chapitres orgueil, avarice, luxure, envie, gourmandise, colère et paresse, rentrer directement chacun de ces chapitre sous forme de paquet indépendant dans anki serait contre productif (il faut imaginer une situation où il y aurait des dizaines de chapitres pour chaque matière et donc des centaines de paquets).
+C'est pourquoi nous rentrons tous ces chapitres dans un seul gros paquet nommé **la vie** et à chaque carte nous associons une balise (balise orgueil, balise avarice, etc.). De fait, nous passons
+d'une structure en dossier (très lourde) à un structure en balise (très légère).
+
+Tous les mots de vocabulaire, idiomes et points de culture du manuel *The Big Picture* sont tapés dans le paquet **Anglais**.
+Il s'avère que l'on ne révise pas à la même cadence une série de vocabulaire, qu'une série de phrases ou encore qu'une série de paragraphes.
+C'est pourquoi, le vocabulaire, les idiomes et la culture se trouvent dans les sous paquets respectifs **Vocabulaire**, **Idiomes** et **Culture**.
+
+L'image ci-dessous illustre cette arborescence.
+
+[accueil](/images/accueil.png)
+
+De fait, il devient possible de faire une séance "apprentissage/révision des idiomes anglais" indépendamment d'une séance "apprentissage/révision du vocabulaire anglais".
+
+## Apprentissage et révisions
+
+Lorsque vous décidez d'étudier un paquet, dans un premier temps vous tombez sur un mot (anglais ou français) comme ci-dessous.
+
+[recto](/images/recto.png)
+
+À ce moment, vous cherchez mentalement (ou à voix haute !) le traduction puis vous vérifiez votre réponse comme ci-dessous.
+
+[verso](/images/verso.png
+
 
 ## Tags
 
-À chaque carte (par carte on sous-entend un duo de carte (puisque les cartes sont équivalentes en contenu)) est associé une balise (tag en anglais).
-Explicitons leur utilité. En effet, anki gère très mal les grandes quantités de paquets. Par exemple, si je veux apprendre le livre de **la vie** qui contient les chapitres orgueil, avarice, luxure, envie, gourmandise, colère et paresse, rentrer directement chacun de ces chapitre sous forme de paquet indépendant dans anki serait contre productif (il faut imaginer une situation où il y aurait des dixaines de chapitres pour chaque matière et donc des centaines de paquets).
-C'est pourquoi je rentre tous ces chapitres dans un seul gros paquet nommé **la vie** et à chaque carte j'associe une balise (balise orgueil, balise avarice, etc.). De fait on passe d'une structure en dossier (très lourde) à un structure en balise (très légère).
-
-Tous les mots du livres sont tapés dans le paquet Anglais::Vocabulaire.
-Si je veux réviser le chapitre Health_issues de la partie lifestyles, le tag correspondant est Anglais::Lifestyles::Health_issues::Vocabulaire. Attention à la syntaxe de la commande.
+Une utilisation d'Anki **quotidienne** vous permettra d'assimilier l'entièreté du vocabulaire du manuel de façon douce, puisque chaque jour Anki vous fera apprendre des nouveaux mots
+et vous fera réviser les anciens mots. La fréquence d'apparition d'un mot se base sur vos performances 
+Si je veux réviser le chapitre **Health_issues** de la partie lifestyles, le tag correspondant est Anglais::Lifestyles::Health_issues::Vocabulaire. Attention à la syntaxe de la commande.
 Cette dernière décrit l'arborescence ci-dessous.
 
-[tags](images/tags.png)
+[tags](/images/tags.png)
 
 ## Notations
 
