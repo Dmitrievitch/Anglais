@@ -21,8 +21,7 @@ qu'une autre carte **recto = pomme** avec **verso = apple**. Cela, afin d'évite
 ## Paquets
 
 À chaque carte (par carte nous sous-entendons un duo de carte (puisque deux cartes adjacentes sont équivalentes en contenu)) est associé une balise (tag en anglais).
-Explicitons leur utilité. En effet, anki gère très mal les grandes quantités de paquets. Par exemple, si je veux apprendre le livre de **la vie** qui contient les chapitres orgueil, avarice, luxure, envie, gourmandise, colère et paresse, rentrer directement chacun de ces chapitre sous forme de paquet indépendant dans anki serait contre productif (il faut imaginer une situation où il y aurait des dizaines de chapitres pour chaque matière et donc des centaines de paquets).
-C'est pourquoi nous rentrons tous ces chapitres dans un seul gros paquet nommé **la vie** et à chaque carte nous associons une balise (balise orgueil, balise avarice, etc.). De fait, nous passons
+Explicitons leur utilité. En effet, anki gère très mal les grandes quantités de paquets. Par exemple, si je veux apprendre le livre de *la vie* qui contient les chapitres orgueil, avarice, luxure, envie, gourmandise, colère et paresse, rentrer directement chacun de ces chapitre sous forme de paquet indépendant dans anki serait contre productif (il faut imaginer une situation où il y aurait des dizaines de chapitres pour chaque matière et donc des centaines de paquets). C'est pourquoi nous rentrons tous ces chapitres dans un seul gros paquet nommé **la vie** et à chaque carte nous associons une balise (balise orgueil, balise avarice, etc.). De fait, nous passons
 d'une structure en dossier (très lourde) à un structure en balise (très légère).
 
 Tous les mots de vocabulaire, idiomes et points de culture du manuel *The Big Picture* sont tapés dans le paquet **Anglais**.
@@ -45,15 +44,10 @@ Lorsque vous décidez d'étudier un paquet, dans un premier temps vous tombez su
 
 ![verso](chaptal/images/verso.png)
 
-
-## Tags
-
-Une utilisation d'Anki **quotidienne** vous permettra d'assimilier l'entièreté du vocabulaire du manuel de façon douce, puisque chaque jour Anki vous fera apprendre des nouveaux mots
-et vous fera réviser les anciens mots. La fréquence d'apparition d'un mot se base sur vos performances 
-Si je veux réviser le chapitre **Health_issues** de la partie lifestyles, le tag correspondant est Anglais::Lifestyles::Health_issues::Vocabulaire. Attention à la syntaxe de la commande.
-Cette dernière décrit l'arborescence ci-dessous.
-
-![tags](chaptal/images/tags.png)
+Vous pouvez désormais estimer la qualité de votre mobilisation sur quatres niveaux différents. Si vous n'arriviez pas à trouver la traduction, sélectionnez **à revoir**, Anki se chargera
+de vous présenter à nouveau cette carte dans quelques minutes. Son objectif étant que sur une séance, toutes les cartes deviennent **faciles** et soient donc reportées comme cartes à réviser
+pour les séances prochaines. Au fur et à mesure de vos révisions, l'espacement entre deux révisions d'une même carte deviendra de plus en plus grand. Par exemple s'il s'avère que vous
+maîtrisez parfaitement la traduction de potato, Anki vous proposera à nouveau de réviser cette carte dans 6 mois, et ainsi de suite.
 
 ## Notations
 
@@ -63,8 +57,7 @@ La façon dont est rédigé le vocabulaire d'anglais reproduit strictement celle
 lorsque je suis en présence du mot **voleur #2**, on attend de moi deux traductions en anglais. Même principe dans le sens contraire et/ou avec un plus grand nombre de traductions.
 - Notez les abréviations courantes : **sb** pour **somebody**, **qn** pour **quelqu'un**, **sth** pour **something**, **qch** pour **quelque chose**.
 
-
-## Révisions
+## Mises à jours
 
 Le vocabulaire de chaque chapitre est entièrement tapé dans les paquets. Certains trouveront cela embêtant car ils connaîtrons peut être déjà certains mots, mais dans la mesure
 où les paquets s'adressent à un large public, il était nécessaire de rentrer tous les mots afin d'éviter des disparîtés entre élèves. En outre, une piqûre de rappelle ne fait pas de mal, et s'il
@@ -73,10 +66,15 @@ s'avère que le mot est réellement su du fond du coeur, l'algorithme d'Anki se 
 De façon générale, je publie un jeu de carte (qui équivaut à un chapitre) par semaine le vendredi ou samedi soir. De fait il est possible d'entamer les révisions dès lundi. Dans la mesure où chaque chapitre contient moins de 100 mots, une utilisation **quotidienne** de Anki permet en apprenant moins de 20 mots par jour, de finir son vocabulaire de façon naturelle dans la semaine. Lorsque Mme Binet annonce
 les échéances, je tape les chapitres correspondants. En dehors des échéances, je tape les autres chapitres.
 
+Afin de récupérer un nouveau chapitre, il est nécessaire de télécharger à nouveau le paquet principal **Anglais** et de l'importer sur votre appareil afin d'écraser l'ancienne version. La page d'accueil
+de ce site vous permets de consulter la date d'ajout des chapitres ainsi que les mises à jour du paquet principal.
+
 ## Révisions personnalisée
 
 Par défaut, Anki voudra vous faire apprendre 30 mots par jours (quota changeable) qui se trouvent dans le paquets **Anglais**. Or ce paquet contient tous les chapitres tapés jusqu'à présent. Certes, il est intéressant de réviser et d'apprendre tous les jours du vocabulaire divers mais pour les échéances, c'est moins pratique.
 
+Si je veux réviser le chapitre **Health_issues** de la partie lifestyles, le tag correspondant est Anglais::Lifestyles::Health_issues::Vocabulaire. Attention à la syntaxe de la commande.
+Cette dernière décrit l'arborescence ci-dessous.
 C'est pourquoi, si j'ai besoin de réviser le chapitre **Health_issues** pour la semaine prochaine, je vais dans le paquet **Vocabulaire** et je fait **Révisions personnalisée** puis **Etude par carte ou tag**.
 
 Dans un premier temps on sélectionne un nombre de carte suffisamment grand.
