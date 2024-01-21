@@ -14,7 +14,7 @@ lorsque je suis en présence du mot **voleur #2**, on attend de moi deux traduct
 
 ## Paquet
 
-A terme, le paquet **The Big Picture** contiendra tous les chapitres du livre. En outre, chaque chapitre contiendra l'entièreté du contenu (mots de vocabulaire, idiomes et points de culture).
+A terme, le paquet **The_big_picture** contiendra tous les chapitres du livre. En outre, chaque chapitre contiendra l'entièreté du contenu (mots de vocabulaire, idiomes et points de culture).
 Afin de savoir quels chapitres ont été tapés, référez vous à [l'index](index.md) et à la page **Mises à jour** de l'accueil.
 
 Le paquet contient des cartes. Le principe est de faire défiler des cartes, d'essayer de mobiliser la connaissance qui s'y trouve et de la restituer. En fonction de votre degré de réussite,
@@ -26,7 +26,7 @@ seront des cartes vertes (à réviser) et de nouvelles cartes bleues apparaîtro
 
 ## Paquet filtré
 
-Puisque **The Big Picture** contient tous les chapitres, Anki vous les fera apprendre progressivement (par intervalles de 30 cartes/jour). Néanmoins, il peut s'avérer nécessaire de n'apprendre ou de ne réviser qu'un seul chapitre.
+Puisque **The_big_picture** contient tous les chapitres, Anki vous les fera apprendre progressivement (par intervalles de 30 cartes/jour). Néanmoins, il peut s'avérer nécessaire de n'apprendre ou de ne réviser qu'un seul chapitre.
 
 Mettons que vous vouliez réviser le vocabulaire de **Health_issues**.
 
