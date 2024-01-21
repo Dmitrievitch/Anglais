@@ -1,7 +1,7 @@
 # Précis d'utilisation d'Anki
 
 Anki est disponible gratuitement sur Windows, Linux, MacOS et Android. La version iOS est payante. Néanmoins, les révisions sont possibles gratuitement depuis n'importe quelle plateforme
-via [ankiweb.net](httpls://ankiweb.net/about). De plus, nous recommandons la lecture de la [documentation officielle](https://apps.ankiweb.net/docs/manual.fr.html) pour explorer et comprendre
+via [ankiweb.net](https://ankiweb.net/about). De plus, nous recommandons la lecture de la [documentation officielle](https://apps.ankiweb.net/docs/manual.fr.html) pour explorer et comprendre
 toutes les fonctionnalités. En tout état de cause, nous présentons ici le fonctionnement de façon succinte.
 
 ## Notations
