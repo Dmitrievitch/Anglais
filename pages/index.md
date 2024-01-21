@@ -1,6 +1,5 @@
 # Index de The Big Picture
 
-Les notations des parties et des chapitres est conforme à la forme requise pour une commande Anki du style `Anglais::Lifestyles::Health_issues::Vocabulaire`.
 Les chapitres marqués d'un **#** sont tapés dans le paquet **Anglais**.
 
 ## Lifestyles
