@@ -42,7 +42,7 @@ des sous chapitres.
 
 La création d'un paquet filtré va extraire des cartes du paquet d'origine.
 Une fois que vous avez fini de réviser votre paquet filtré, vous pourrez continuer sa révision les jours suivants en faisant **reconstruire**. La suprression d'un paquet filtré ne supprime pas les cartes
-correspondantes : cela fait juste revenir les cartes au paquet d'origine.
+correspondantes : cela fait juste revenir les cartes au paquet d'origine. Finalement, un seul paquet filtré à la fois peut être créé. Il est nécessaire de supprimer l'ancien pour en faire un nouveau.
 
 ## Recommandations
 
