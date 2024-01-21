@@ -31,7 +31,7 @@ C'est pourquoi, le vocabulaire, les idiomes et la culture se trouvent dans les s
 
 L'image ci-dessous illustre cette arborescence.
 
-[accueil](/images/accueil.png)
+![accueil](/images/accueil.png)
 
 De fait, il devient possible de faire une séance "apprentissage/révision des idiomes anglais" indépendamment d'une séance "apprentissage/révision du vocabulaire anglais".
 
@@ -39,11 +39,11 @@ De fait, il devient possible de faire une séance "apprentissage/révision des i
 
 Lorsque vous décidez d'étudier un paquet, dans un premier temps vous tombez sur un mot (anglais ou français) comme ci-dessous.
 
-[recto](/images/recto.png)
+![recto](/images/recto.png)
 
 À ce moment, vous cherchez mentalement (ou à voix haute !) le traduction puis vous vérifiez votre réponse comme ci-dessous.
 
-[verso](/images/verso.png
+![verso](/images/verso.png
 
 
 ## Tags
@@ -53,7 +53,7 @@ et vous fera réviser les anciens mots. La fréquence d'apparition d'un mot se b
 Si je veux réviser le chapitre **Health_issues** de la partie lifestyles, le tag correspondant est Anglais::Lifestyles::Health_issues::Vocabulaire. Attention à la syntaxe de la commande.
 Cette dernière décrit l'arborescence ci-dessous.
 
-[tags](/images/tags.png)
+![tags](/images/tags.png)
 
 ## Notations
 
