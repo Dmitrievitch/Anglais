@@ -1,3 +1,5 @@
+<img src="/pages/images/tags.png" alt="test">
+
 # Manuel d'utilisateur du logiciel Anki
 
 La lecture des paragraphes qui suivent est indispensable pour une bonne compréhension de cet outil. Nous avons fait le choix d'Anki, notamment pour sa puissance et sa gratuité
