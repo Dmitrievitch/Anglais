@@ -24,7 +24,7 @@ Vous trouverez ci-dessous les derniers paquets :
 
 ## Mises à jour
 
-Vous trouverez un index des parties et chapitre anglais [ici](/pages/index.md).
+Vous trouverez un index des parties et des chapitre anglais [ici](/pages/index.md).
 
 ```
 Ajout du chapitre SAME-SEX MARRIAGE ------ 20/01/2024
