@@ -13,7 +13,9 @@ le fonctionnement et les notations utilisées : si nous parlons le même langage
 
 ## Téléchargements
 
-Vous trouverez ci-dessous les derniers paquets :
+>Attention. Les paquets ci-dessous ne sont compatibles qu'avec la version ordinateur d'Anki.
+>Afin de pouvoir avoir les paquets sur téléphone, il est nécessaire de créer un compte [ankiweb.net](https://ankiweb.net/about) afin de sychroniser
+>votre ordinateur à votre téléphone.
 
 | Matière  | Fichier                                    | Date       |
 | :------: | :----------------------------------------: | :--------: |
