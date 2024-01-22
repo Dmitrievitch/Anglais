@@ -37,8 +37,9 @@ est cruciale.
 
 De même, pour réviser les idiomes de **Health_issues**, nous taperions `tag:The_big_picture::Lifestyles::Health_issues::Idioms`.
 Pour réviser tout le chapitre (idiomes et vocabulaire ensemble), nous taperions `tag:The_big_picture::Lifestyles::Health_issues`
-Le principe reste le même pour réviser d'autres chapitres et d'autres sous catégories de chapitres. Encore une fois, référez vous à [l'index](index.md) qui reprend les notations des chapitres et
-des sous chapitres.
+Le principe reste le même pour réviser d'autres chapitres et d'autres sous catégories de chapitres. Encore une fois, référez vous à [l'index](index.md) qui reprend les notations des chapitres et des sous chapitres.
+
+Sur téléphone le principe reste analogue. Il faut sélectionner le paquet (par un appui long) et choisir **révisions personnalisées** et **se limiter à des tags particuliers**.
 
 La création d'un paquet filtré va extraire des cartes du paquet d'origine.
 Une fois que vous avez fini de réviser votre paquet filtré, vous pourrez continuer sa révision les jours suivants en faisant **reconstruire**. La suprression d'un paquet filtré ne supprime pas les cartes
