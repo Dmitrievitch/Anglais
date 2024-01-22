@@ -14,7 +14,7 @@ lorsque je suis en présence du mot **voleur #2**, on attend de moi deux traduct
 
 ## Paquet
 
-A terme, le paquet **The_big_picture** contiendra tous les chapitres du manuel. En outre, chaque chapitre contiendra l'entièreté du contenu (mots de vocabulaire, idiomes et points de culture).
+À terme, le paquet **The_big_picture** contiendra tous les chapitres du manuel. En outre, chaque chapitre contiendra l'entièreté du contenu (mots de vocabulaire, idiomes et points de culture).
 Afin de savoir quels chapitres ont été tapés, référez vous à [l'index](index.md) et à la page **Mises à jour** de l'accueil.
 
 Le paquet contient des cartes. Le principe est de faire défiler des cartes, d'essayer de mobiliser la connaissance qui s'y trouve et de la restituer (mentalement). En fonction de votre degré de réussite
@@ -42,7 +42,7 @@ Le principe reste le même pour réviser d'autres chapitres et d'autres sous cat
 Sur téléphone le principe reste analogue. Il faut sélectionner le paquet (par un appui long) et choisir **révisions personnalisées** et **se limiter à des tags particuliers**.
 
 La création d'un paquet filtré va extraire des cartes du paquet d'origine.
-Une fois que vous avez fini de réviser votre paquet filtré, vous pourrez continuer sa révision les jours suivants en faisant **reconstruire**. La suprression d'un paquet filtré ne supprime pas les cartes
+Une fois que vous avez fini de réviser votre paquet filtré, vous pourrez continuer sa révision les jours suivants en faisant **reconstruire**. La supression d'un paquet filtré ne supprime pas les cartes
 correspondantes : cela fait juste revenir les cartes au paquet d'origine. Finalement, un seul paquet filtré à la fois peut être créé. Il est nécessaire de supprimer l'ancien pour en faire un nouveau.
 
 ## Recommandations
