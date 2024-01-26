@@ -1,7 +1,7 @@
 # Index de The Big Picture
 
-Les chapitres marqués d'un **#** sont tapés dans le paquet **The_big_picture**.
-Les notations des chapitres et sous chapitres reprennent celles pour la création d'une commande de paquet filtré.
+Les chapitres marqués d'un **#** sont tapés dans le paquet **The Big Picture**.
+Les notations des parties et chapitres reprennent celles pour la création d'une commande de paquet filtré.
 
 ## Lifestyles
 
@@ -12,7 +12,7 @@ Les notations des chapitres et sous chapitres reprennent celles pour la créatio
 5. Sex
 6. Same-sex_marriage #
 7. Women
-8. Abortion
+8. Abortion #
 9. Bioethics
 10. Euthanasia
 11. Religion
