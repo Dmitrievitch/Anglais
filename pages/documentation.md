@@ -14,7 +14,7 @@ lorsque je suis en présence du mot **voleur #2**, on attend de moi deux traduct
 
 ## Paquet
 
-À terme, le paquet **The_big_picture** contiendra tous les chapitres du manuel. En outre, chaque chapitre contiendra l'entièreté du contenu (mots de vocabulaire, idiomes et points de culture).
+À terme, le paquet **The Big Picture** contiendra tous les chapitres du manuel. En outre, chaque chapitre contiendra l'entièreté du contenu (mots de vocabulaire, idiomes et points de culture).
 Afin de savoir quels chapitres ont été tapés, référez vous à [l'index](index.md) et à la page **Mises à jour** de l'accueil.
 
 Le paquet contient des cartes. Le principe est de faire défiler des cartes, d'essayer de mobiliser la connaissance qui s'y trouve et de la restituer (mentalement). En fonction de votre degré de réussite
@@ -26,11 +26,11 @@ seront des cartes vertes (à réviser) et de nouvelles cartes bleues apparaîtro
 
 ## Paquet filtré
 
-Puisque **The_big_picture** contient tous les chapitres, Anki vous les fera apprendre progressivement (par intervalles de 30 cartes/jour). Néanmoins, il peut s'avérer nécessaire de n'apprendre ou de ne réviser qu'un seul chapitre.
+Puisque **The Big Picture** contient tous les chapitres, Anki vous les fera apprendre progressivement (par intervalles de 30 cartes/jour). Néanmoins, il peut s'avérer nécessaire de n'apprendre ou de ne réviser qu'un seul chapitre.
 
 Mettons que vous vouliez réviser le vocabulaire de **Health_issues**.
 
-Pour faire cela, sélectionnez le paquet **The_big_picture** puis **outils** et **créer un paquet filtré** (notez le raccourcis clavier F qui permet cela). Vous pouvez lui donner un nom, par exemple
+Pour faire cela, sélectionnez le paquet **The Big Picture** puis **outils** et **créer un paquet filtré** (notez le raccourcis clavier F qui permet cela). Vous pouvez lui donner un nom, par exemple
 "Apprentissage de Health_issues". Mettez une limite de carte suffisamment grande et dans **Chercher**, tapez la commande suivante `tag:The_big_picture::Lifestyles::Health_issues::Vocabulary`.
 Notez le début avec `tag:` qui permet de dire à Anki que nous allons chercher des cartes avec un tag spécifique. Faites attention aux majuscules, underscores et `::` qui séparent deux mots. La syntaxe
 est cruciale.
