@@ -14,7 +14,7 @@ le fonctionnement et les notations utilisées : si nous parlons le même langage
 ## Descriptions
 
 + **The Big Picture** contient le vocabulaire et les idiomes tirés du manuel éponyme (Ellipses, 6ème édition).
-+ **The Economist** contient le vocabulaire que je ne comprends lors de mes lectures du journal éponyme. J'accorde le fait que ce paquet soit personnel, mais peut être butez-vous vous aussi sur certains mots ?
++ **The Economist** contient le vocabulaire que je ne comprends pas lors de mes lectures du journal éponyme. J'accorde le fait que ce paquet soit personnel, mais peut être butez-vous vous aussi sur certains mots ?
 
 ## Téléchargements
 
