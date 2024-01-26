@@ -15,6 +15,7 @@ le fonctionnement et les notations utilisées : si nous parlons le même langage
 
 + **The Big Picture** contient le vocabulaire et les idiomes tirés du manuel éponyme (Ellipses, 6ème édition).
 + **The Economist** contient le vocabulaire que je ne comprends pas lors de mes lectures du journal éponyme. J'accorde le fait que ce paquet soit personnel, mais peut être butez-vous vous aussi sur certains mots ?
++ **Le vocabulaire allemand** contient le vocabulaire et les idiomes tirés du manuel éponyme (Nathan).
 
 ## Téléchargements
 
@@ -24,11 +25,11 @@ le fonctionnement et les notations utilisées : si nous parlons le même langage
 
 > Attention : la notation des paquets a été changée. "The_big_picture" n'est désormais plus utilisée. À la place, "The Big Picture" est utilisée. Pensez à renommer le paquet sur votre ordinateur avant de l'importer depuis ce site.
 
-| Matière  | Fichier                                              | Date       |
-| :------: | :--------------------------------------------------: | :--------: |
-| Anglais  | [The Big Picture.apkg](</anki/The Big Picture.apkg>) | 20/01/2024 |
-| Anglais  | [The Economist.apkg](<anki/The Economist.apkg>)      | 26/01/2024 |
-| Allemand |
+| Matière  | Fichier                                                             | Date       |
+| :------: | :-----------------------------------------------------------------: | :--------: |
+| Anglais  | [The Big Picture.apkg](</anki/The Big Picture.apkg>)                | 26/01/2024 |
+| Anglais  | [The Economist.apkg](<anki/The Economist.apkg>)                     | 26/01/2024 |
+| Allemand | [Le vocabulaire allemand.apkg](<anki/Le vocabulaire allemand.apkg>) | 26/01/2024 |
 | Français |
 | Maths    |
 
