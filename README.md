@@ -11,6 +11,11 @@ Mon principal outil de travail est Anki, une application de révisions espacées
 Lisez **impérativement** [cette page](/pages/documentation.md) afin de comprendre Anki. J'y présente brièvement
 le fonctionnement et les notations utilisées : si nous parlons le même langage, nous nous comprendrons mieux !
 
+## Descriptions
+
++ **The Big Picture** contient le vocabulaire et les idiomes tirés du manuel éponyme (Ellipses, 6ème édition).
++ **The Economist** contient le vocabulaire que je ne comprends lors de mes lectures du journal éponyme. J'accorde le fait que ce paquet soit personnel, mais peut être butez-vous vous aussi sur certains mots ?
+
 ## Téléchargements
 
 >Attention : les paquets ci-dessous ne sont compatibles qu'avec la version ordinateur d'Anki.
