@@ -43,6 +43,10 @@ Ajout du chapitre Same-sex_marriage ------ 20/01/2024
 Ajout du chapitre Health_issues ---------- 12/01/2024
 ```
 
+```
+Ajout du chapitre Der Menschliche Körper ---- 26/01/2024
+```
+
 ## Divers
 
 Pour toute remarque, je suis joignable à l'adresse mél suivante : <dmitrievitch.o8iym@aleeas.com>.
