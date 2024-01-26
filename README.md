@@ -35,16 +35,22 @@ le fonctionnement et les notations utilisées : si nous parlons le même langage
 
 ## Mises à jour
 
-N'hésitez pas à consulter [l'index](/pages/index.md) des parties et des chapitres.
+### Anglais
+
+N'hésitez pas à consulter [l'index anglais](/pages/index.md).
 
 ```
-Ajout du chapitre Abortion --------------- 26/01/2024
-Ajout du chapitre Same-sex_marriage ------ 20/01/2024
-Ajout du chapitre Health_issues ---------- 12/01/2024
+Abortion --------------- 26/01/2024
+Same-sex_marriage ------ 20/01/2024
+Health_issues ---------- 12/01/2024
 ```
 
+### Allemand
+
+N'hésitez pas à consulter [l'index allemand](/pages.index_allemand.md).
+
 ```
-Ajout du chapitre Der Menschliche Körper ---- 26/01/2024
+Der_menschliche_Körper ---- 26/01/2024
 ```
 
 ## Divers
