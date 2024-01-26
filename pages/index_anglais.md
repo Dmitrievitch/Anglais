@@ -1,18 +1,17 @@
 # Index de The Big Picture
 
-Les chapitres marqués d'un **#** sont tapés dans le paquet **The Big Picture**.
 Les notations des parties et chapitres reprennent celles pour la création d'une commande de paquet filtré.
 
 ## Lifestyles
 
-1. Health_issues #
+1. Health_issues
 2. The_coronavirus_crisis
 3. Eating_disorders
 4. Illegal_drugs
 5. Sex
-6. Same-sex_marriage #
+6. Same-sex_marriage
 7. Women
-8. Abortion #
+8. Abortion
 9. Bioethics
 10. Euthanasia
 11. Religion
