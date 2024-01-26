@@ -37,7 +37,7 @@ le fonctionnement et les notations utilisées : si nous parlons le même langage
 
 ### Anglais
 
-N'hésitez pas à consulter [l'index anglais](/pages/index.md).
+N'hésitez pas à consulter [l'index anglais](/pages/index_anglais.md).
 
 ```
 Abortion --------------- 26/01/2024
