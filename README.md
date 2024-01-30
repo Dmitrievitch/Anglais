@@ -25,11 +25,13 @@ le fonctionnement et les notations utilisées : si nous parlons le même langage
 
 > Attention : la notation des paquets a été changée. "The_big_picture" n'est désormais plus utilisée. À la place, "The Big Picture" est utilisée. Pensez à renommer le paquet sur votre ordinateur avant de l'importer depuis ce site.
 
-| Matière  | Fichier                                                             | Date       |
-| :------: | :-----------------------------------------------------------------: | :--------: |
-| Anglais  | [The Big Picture.apkg](</anki/The Big Picture.apkg>)                | 30/01/2024 |
-| Anglais  | [The Economist.apkg](<anki/The Economist.apkg>)                     | 30/01/2024 |
-| Allemand | [Le vocabulaire allemand.apkg](<anki/Le vocabulaire allemand.apkg>) | 30/01/2024 |
+> Attention : l'arborescence des tags a été modifiée. Afin de profiter de la dernière mise à jour, aller dans outils puis vérifier l'intégrité de la base de données.
+
+| Matière  | Fichier                                                                                 | Date       |
+| :------: | :-------------------------------------------------------------------------------------: | :--------: |
+| Anglais  | [The Big Picture.apkg](</anki/The Big Picture.apkg>)                                    | 30/01/2024 |
+| Anglais  | [The Economist.apkg](<anki/The Economist.apkg>)                                         | 30/01/2024 |
+| Allemand | [Le vocabulaire allemand.apkg](<anki/Le vocabulaire allemand.apkg>)                     | 30/01/2024 |
 | Allemand | [Le vocabulaire allemand - annexes.apkg](<anki/Le vocabulaire allemand - annexes.apkg>) | 30/01/2024 |
 | Maths    |
 
