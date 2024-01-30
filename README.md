@@ -53,7 +53,7 @@ Health_issues ---------- 12/01/2024
 N'hésitez pas à consulter [l'index allemand](/pages.index_allemand.md).
 
 ```
-Die Körperliche Verfassung ----- 30/01/2024
+Die_Körperliche_Verfassung ----- 30/01/2024
 Der_menschliche_Körper --------- 26/01/2024
 ```
 
