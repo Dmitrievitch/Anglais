@@ -27,10 +27,10 @@ le fonctionnement et les notations utilisées : si nous parlons le même langage
 
 | Matière  | Fichier                                                             | Date       |
 | :------: | :-----------------------------------------------------------------: | :--------: |
-| Anglais  | [The Big Picture.apkg](</anki/The Big Picture.apkg>)                | 26/01/2024 |
-| Anglais  | [The Economist.apkg](<anki/The Economist.apkg>)                     | 26/01/2024 |
-| Allemand | [Le vocabulaire allemand.apkg](<anki/Le vocabulaire allemand.apkg>) | 26/01/2024 |
-| Français |
+| Anglais  | [The Big Picture.apkg](</anki/The Big Picture.apkg>)                | 30/01/2024 |
+| Anglais  | [The Economist.apkg](<anki/The Economist.apkg>)                     | 30/01/2024 |
+| Allemand | [Le vocabulaire allemand.apkg](<anki/Le vocabulaire allemand.apkg>) | 30/01/2024 |
+| Allemand | [Le vocabulaire allemand - annexes.apkg](<anki/Le vocabulaire allemand - annexes.apkg>) | 30/01/2024 |
 | Maths    |
 
 ## Mises à jour
@@ -40,6 +40,7 @@ le fonctionnement et les notations utilisées : si nous parlons le même langage
 N'hésitez pas à consulter [l'index anglais](/pages/index_anglais.md).
 
 ```
+Bioethics -------------- 30/01/2024
 Abortion --------------- 26/01/2024
 Same-sex_marriage ------ 20/01/2024
 Health_issues ---------- 12/01/2024
@@ -50,7 +51,8 @@ Health_issues ---------- 12/01/2024
 N'hésitez pas à consulter [l'index allemand](/pages.index_allemand.md).
 
 ```
-Der_menschliche_Körper ---- 26/01/2024
+Die Körperliche Verfassung ----- 30/01/2024
+Der_menschliche_Körper --------- 26/01/2024
 ```
 
 ## Divers
