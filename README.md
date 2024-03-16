@@ -14,8 +14,6 @@ le fonctionnement et les notations utilisées : si nous parlons le même langage
 ## Descriptions
 
 + **The Big Picture** contient le vocabulaire et les idiomes tirés du manuel éponyme (Ellipses, 6ème édition).
-+ **The Economist** contient le vocabulaire que je ne comprends pas lors de mes lectures du journal éponyme. J'accorde le fait que ce paquet soit personnel, mais peut être butez-vous vous aussi sur certains mots ?
-+ **Le vocabulaire allemand** contient le vocabulaire et les idiomes tirés du manuel éponyme (Nathan).
 
 ## Téléchargements
 
@@ -23,17 +21,11 @@ le fonctionnement et les notations utilisées : si nous parlons le même langage
 >Afin de pouvoir consulter les paquets sur téléphone, il est nécessaire de créer un compte [ankiweb.net](https://ankiweb.net/about) afin de sychroniser
 >votre ordinateur à votre téléphone.
 
-> Attention : la notation des paquets a été changée. "The_big_picture" n'est désormais plus utilisée. À la place, "The Big Picture" est utilisée. Pensez à renommer le paquet sur votre ordinateur avant de l'importer depuis ce site.
-
-> Attention : l'arborescence des tags a été modifiée. Afin de profiter de la dernière mise à jour, aller dans outils puis vérifier l'intégrité de la base de données.
+> Attention : Après chaque téléchargement de paquet, il est nécessaire d'aller dans "outils" puis "vérifier l'intégrité de la base de données" afin d'avoir les bons tags.
 
 | Matière  | Fichier                                                                                 | Date       |
 | :------: | :-------------------------------------------------------------------------------------: | :--------: |
 | Anglais  | [The Big Picture.apkg](</anki/The Big Picture.apkg>)                                    | 30/01/2024 |
-| Anglais  | [The Economist.apkg](<anki/The Economist.apkg>)                                         | 30/01/2024 |
-| Allemand | [Le vocabulaire allemand.apkg](<anki/Le vocabulaire allemand.apkg>)                     | 30/01/2024 |
-| Allemand | [Le vocabulaire allemand - annexes.apkg](<anki/Le vocabulaire allemand - annexes.apkg>) | 30/01/2024 |
-| Maths    |
 
 ## Mises à jour
 
@@ -41,20 +33,19 @@ le fonctionnement et les notations utilisées : si nous parlons le même langage
 
 N'hésitez pas à consulter [l'index anglais](/pages/index_anglais.md).
 
-```
-Bioethics -------------- 30/01/2024
-Abortion --------------- 26/01/2024
-Same-sex_marriage ------ 20/01/2024
-Health_issues ---------- 12/01/2024
-```
-
-### Allemand
-
-N'hésitez pas à consulter [l'index allemand](/pages.index_allemand.md).
+Voici la liste des chapitres actuellement présents. Prenez note de la notation utilisée (une seule majuscule au début, mots séparés par des underscores). Pour réviser un paquet spécifique il faudra faire un paquet filtré avec le tag The_big_picture::Lifestyles::Eating_disorders, par exemple.
 
 ```
-Die_Körperliche_Verfassung ----- 30/01/2024
-Der_menschliche_Körper --------- 26/01/2024
+Health_issues
+The_coronavirus_crisis
+Eating_disorders
+Illegal_drugs
+Sex
+Same-sex_marriage
+Women
+Abortion
+Bioethics
+Unemployment
 ```
 
 ## Divers
