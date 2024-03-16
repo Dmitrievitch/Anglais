@@ -25,7 +25,7 @@ le fonctionnement et les notations utilisées : si nous parlons le même langage
 
 | Matière  | Fichier                                                                                 | Date       |
 | :------: | :-------------------------------------------------------------------------------------: | :--------: |
-| Anglais  | [The Big Picture.apkg](</anki/The Big Picture.apkg>)                                    | 30/01/2024 |
+| Anglais  | [The Big Picture.apkg](</anki/The Big Picture.apkg>)                                    | 16/03/2024 |
 
 ## Mises à jour
 
